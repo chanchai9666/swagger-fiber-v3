@@ -2,6 +2,8 @@ module github.com/chanchai9666/swagger-fiber-v3
 
 go 1.24.1
 
+toolchain go1.23.0
+
 require (
 	github.com/gofiber/fiber/v3 v3.0.0-beta.4
 	github.com/swaggo/swag v1.16.4
